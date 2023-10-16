@@ -1,0 +1,6 @@
+// collision event of Projectile
+if instance_exists(obj_player)
+{
+	instance_destroy(other);
+	instance_destroy();
+}
