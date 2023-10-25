@@ -1,0 +1,3 @@
+hp = 100
+invincible = false
+gravity_direction = 270;
