@@ -1,0 +1,5 @@
+iif (invincible == false) {
+	hp -= 10
+	invincible = true
+	alarm[0] = 30
+}
