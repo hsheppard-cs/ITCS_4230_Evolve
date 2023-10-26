@@ -1,0 +1,7 @@
+if (vspeed <= 12) {
+	vspeed = 0
+}
+else {
+	hp -= int64(vspeed/2)
+	vspeed = 0
+}
