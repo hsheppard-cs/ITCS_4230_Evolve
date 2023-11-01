@@ -19,4 +19,4 @@ Spacebar - Spawn tongue projectile (Note: Only after Ev has evolved from a blob 
 Ctrl + E - Evolve - Force the evolution of Ev from his initial state as a blob to a frog <br/>
 Ctrl + R - Restart - Force restart the game, reverting all the objects back to their original state and position <br/>
 Ctrl + G - God Mode - Set Ev’s health to be invincible; no enemy or hazard cloud deals damage to Ev <br/>
-Ctrl + H - Deal Damage - Lessens Ev’s health by 10 HP <br/>
+Ctrl + H - Revert God Mode - Turn God Mode off <br/>
